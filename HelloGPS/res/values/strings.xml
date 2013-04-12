@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">HelloGPS</string>
+    <string name="menu_settings">Ustawienia</string>
+    <string name="title_activity_main">MapsDroid</string>
+    <string name="pozycja">brak ustalonej pozycji</string>
+    <string name="oblicz">Oblicz pole!</string>
+    <string name="pole_z_wynikiem">pole z wynikiem</string>
+    <string name="obwod">pole z obwodem</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_data_show">DataBaseShow</string>
+    <string name="zaznaczanieObszarow">Zaznacz obszary do wyświetlania na mapie:</string>
+
+</resources>
